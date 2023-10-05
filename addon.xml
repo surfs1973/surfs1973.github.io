@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.jon" name="Jon's Download Center" version="1.0.0" provider-name="surfs1973">
+    <extension point="xbmc.addon.repository" name="Jon's Download Center">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/surfs1973/download_center/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/surfs1973/download_center/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/surfs1973/download_center/master</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Jon's Repository</summary>
+        <description lang="en_GB">Download and install add-ons from Jon's legendary repository.</description>
+        <platform>all</platform>
+        <license>MIT License</license>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
+    </extension>
+</addon>
