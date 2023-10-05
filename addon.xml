@@ -3,7 +3,8 @@
     <extension point="xbmc.addon.repository" name="Jon's Download Center">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/groggyegg/lime/master/addons.xml</info>
-            <datadir zip="true">https://raw.githubusercontent.com/surfs1973/download_center/master</datadir>
+            <checksum>https://raw.githubusercontent.com/groggyegg/lime/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/groggyegg/lime/master</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
