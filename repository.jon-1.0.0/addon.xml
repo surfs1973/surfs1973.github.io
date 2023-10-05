@@ -4,7 +4,7 @@
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/surfs1973/download_center/main/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/surfs1973/download_center/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/surfs1973/download_center/main</datadir>
+            <datadir zip="false">https://raw.githubusercontent.com/surfs1973/download_center/main</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
